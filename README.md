@@ -1,3 +1,3 @@
 # **HYDRO PROGRAMMING LANGUAGE**
 
-## A language created from Python
+## A language created from C
