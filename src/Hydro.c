@@ -10,6 +10,9 @@
 
 
 int main(int argc, char** argv){
-    printf("hello");
+    if (argc < 3){
+        printf("give more arguments dipshit");
+        return 1;
+    }
     return 0;
 }
